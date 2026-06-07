@@ -6,7 +6,7 @@ Flask + D3.js app that maps research collaboration among UTEC faculty. Edges con
 
 | Component | Technique | Analytical Task |
 |---|---|---|
-| Main canvas | **Force-directed graph** | T1 · T2 · T3 · T4 |
+| Network | **Force-directed graph** | T1 · T2 · T3 · T4 |
 | Sidebar — ranking | **Bar list** | T1 · T2 · T3 |
 | Sidebar — detail | **Profile card** | T1 · T2 · T3 |
 | Sidebar — predictions | **Scored pair list** | T4 |
@@ -16,7 +16,7 @@ Flask + D3.js app that maps research collaboration among UTEC faculty. Edges con
 - **T3** – How cohesive are departments internally?
 - **T4** – Which new collaborations are most likely to emerge?
 
-## Design Rationale
+## Design Desitions
 
 | Decision | Why chosen |
 |---|---|
