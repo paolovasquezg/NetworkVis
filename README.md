@@ -1,4 +1,4 @@
-# UTEC Faculty Network Visualization
+# UTEC Research Network
 
 Flask + D3.js app that maps research collaboration among UTEC faculty. Edges connect professors who share at least one research group, and the weight is just how many groups they have in common.
 
