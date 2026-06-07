@@ -1,0 +1,11639 @@
+[
+  {
+    "source": 0,
+    "target": 3,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 0,
+    "target": 17,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 0,
+    "target": 26,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 0,
+    "target": 34,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 0,
+    "target": 44,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 0,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 0,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 3,
+    "target": 17,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 3,
+    "target": 26,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 3,
+    "target": 34,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 3,
+    "target": 44,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 3,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 3,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 26,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 34,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 44,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 74,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 26,
+    "target": 34,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 26,
+    "target": 44,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 26,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 26,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 34,
+    "target": 44,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 34,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 34,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 44,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 44,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 74,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 4,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 11,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 19,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 21,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 29,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 35,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 1,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 11,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 16,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 19,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 21,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 29,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 35,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 16,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 19,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 21,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 29,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 35,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 11,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 19,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 21,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 29,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 35,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 16,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 21,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 29,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 35,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 19,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 29,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 35,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 21,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 35,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 29,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 38,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 35,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 42,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 38,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 46,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 42,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 50,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 46,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 55,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 50,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 56,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 55,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 57,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 56,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 58,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 57,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 59,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 58,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 65,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 59,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 66,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 65,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 68,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 66,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 70,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 68,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 71,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 70,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 76,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 71,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 77,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 76,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 79,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 77,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 82,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 88,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 79,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 88,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 103,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 105,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 82,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 90,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 103,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 105,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 88,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 91,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 90,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 92,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 91,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 93,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 92,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 93,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 95,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 94,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 96,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 95,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 97,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 96,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 97,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 108,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 98,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 100,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 102,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 99,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 101,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 100,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 101,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 103,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 102,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 104,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 105,
+    "weight": 2,
+    "shared_groups": [
+      "Organización/Áreas",
+      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 103,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 104,
+    "target": 105,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 104,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 104,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 104,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 104,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 104,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 104,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 105,
+    "target": 106,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 105,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 105,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 105,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 105,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 105,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 106,
+    "target": 107,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 106,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 106,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 106,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 106,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 107,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 107,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 107,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 107,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 108,
+    "target": 109,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 108,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 108,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 109,
+    "target": 110,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 109,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 110,
+    "target": 111,
+    "weight": 1,
+    "shared_groups": [
+      "Organización/Áreas"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 5,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas",
+      "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 53,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 60,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 62,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas",
+      "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 86,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 5,
+    "target": 8,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 5,
+    "target": 53,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 5,
+    "target": 60,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 5,
+    "target": 62,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 5,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 5,
+    "target": 86,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 5,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 8,
+    "target": 53,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 8,
+    "target": 60,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 8,
+    "target": 62,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas",
+      "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+    ]
+  },
+  {
+    "source": 8,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 8,
+    "target": 86,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 8,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 53,
+    "target": 60,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 53,
+    "target": 62,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 53,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 53,
+    "target": 86,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 53,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 60,
+    "target": 62,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 60,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 60,
+    "target": 86,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 60,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 62,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 62,
+    "target": 86,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 62,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 67,
+    "target": 86,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 67,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 86,
+    "target": 87,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de investigación en energía y minas"
+    ]
+  },
+  {
+    "source": 2,
+    "target": 47,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+    ]
+  },
+  {
+    "source": 8,
+    "target": 47,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+    ]
+  },
+  {
+    "source": 47,
+    "target": 62,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 12,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 13,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 27,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 39,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 40,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 41,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 4,
+    "target": 61,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 12,
+    "target": 13,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 12,
+    "target": 27,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 12,
+    "target": 39,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 12,
+    "target": 40,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 12,
+    "target": 41,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 12,
+    "target": 61,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 27,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 39,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 40,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 41,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 61,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 27,
+    "target": 39,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 27,
+    "target": 40,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 27,
+    "target": 41,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 27,
+    "target": 61,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 40,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 41,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 61,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 41,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 61,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 41,
+    "target": 61,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 13,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 14,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 23,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 25,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 39,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 40,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 43,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 6,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 14,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 23,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 25,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 43,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 13,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 23,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 25,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 39,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 40,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 43,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 14,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 25,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 39,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 40,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 43,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 23,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 39,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 40,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 43,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 25,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 43,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 39,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 43,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 40,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 43,
+    "target": 63,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 43,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 43,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 43,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 43,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 43,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 63,
+    "target": 69,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 63,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 63,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 63,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 63,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 69,
+    "target": 83,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 69,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 69,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 69,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 83,
+    "target": 85,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 83,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 83,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 85,
+    "target": 99,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 85,
+    "target": 102,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Bioingeniería - BIO"
+    ]
+  },
+  {
+    "source": 7,
+    "target": 10,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    ]
+  },
+  {
+    "source": 7,
+    "target": 24,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    ]
+  },
+  {
+    "source": 7,
+    "target": 94,
+    "weight": 3,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+      "Centro de Investigación del Cemento y Concreto - CIC",
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 10,
+    "target": 24,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    ]
+  },
+  {
+    "source": 10,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    ]
+  },
+  {
+    "source": 7,
+    "target": 84,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación del Cemento y Concreto - CIC"
+    ]
+  },
+  {
+    "source": 84,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación del Cemento y Concreto - CIC"
+    ]
+  },
+  {
+    "source": 7,
+    "target": 15,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 7,
+    "target": 20,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 7,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 15,
+    "target": 20,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 15,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 15,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 20,
+    "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 20,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 67,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 22,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 30,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 45,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 74,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 22,
+    "target": 30,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    ]
+  },
+  {
+    "source": 22,
+    "target": 45,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    ]
+  },
+  {
+    "source": 22,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    ]
+  },
+  {
+    "source": 30,
+    "target": 45,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    ]
+  },
+  {
+    "source": 30,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+    ]
+  },
+  {
+    "source": 45,
+    "target": 74,
+    "weight": 2,
+    "shared_groups": [
+      "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 17,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 24,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 28,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 31,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 33,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 9,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 24,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 28,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 31,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 33,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 45,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 17,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 28,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 31,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 33,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 45,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 28,
+    "target": 31,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 28,
+    "target": 33,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 28,
+    "target": 45,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 28,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 28,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 31,
+    "target": 33,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 31,
+    "target": 45,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 31,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 31,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 33,
+    "target": 45,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 33,
+    "target": 74,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 33,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 45,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 74,
+    "target": 75,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+    ]
+  },
+  {
+    "source": 18,
+    "target": 36,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 18,
+    "target": 48,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 18,
+    "target": 78,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 18,
+    "target": 89,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 36,
+    "target": 48,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 36,
+    "target": 78,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 36,
+    "target": 89,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 48,
+    "target": 78,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 48,
+    "target": 89,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 78,
+    "target": 89,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Impacto y Responsabilidad Social - CIRSO"
+    ]
+  },
+  {
+    "source": 28,
+    "target": 49,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Física Fundamental (GIFF)"
+    ]
+  },
+  {
+    "source": 32,
+    "target": 37,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 32,
+    "target": 51,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 32,
+    "target": 64,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 32,
+    "target": 72,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 32,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 32,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 37,
+    "target": 51,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 37,
+    "target": 64,
+    "weight": 2,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA",
+      "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)"
+    ]
+  },
+  {
+    "source": 37,
+    "target": 72,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 37,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 37,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 51,
+    "target": 64,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 51,
+    "target": 72,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 51,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 51,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 64,
+    "target": 72,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 64,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 64,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 72,
+    "target": 98,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 72,
+    "target": 108,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Tecnología del Agua - CITA"
+    ]
+  },
+  {
+    "source": 33,
+    "target": 52,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)"
+    ]
+  },
+  {
+    "source": 33,
+    "target": 81,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)"
+    ]
+  },
+  {
+    "source": 52,
+    "target": 81,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)"
+    ]
+  },
+  {
+    "source": 54,
+    "target": 80,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)"
+    ]
+  }
+]
