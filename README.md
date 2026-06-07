@@ -1,6 +1,6 @@
 # UTEC Faculty Network Visualization
 
-Flask + D3.js app that maps research collaboration among UTEC faculty. The graph is built from co-membership in shared research groups — two professors share an edge if they belong to the same group, and the edge weight reflects how many groups they share.
+Flask + D3.js app that maps research collaboration among UTEC faculty. Edges connect professors who share at least one research group, and the weight is just how many groups they have in common.
 
 ## Visualizations
 
@@ -18,43 +18,47 @@ Flask + D3.js app that maps research collaboration among UTEC faculty. The graph
 
 ## Design Rationale
 
-| Decision | Justification |
+| Decision | Why chosen |
 |---|---|
-| **Force-directed layout** | Node positions emerge from the actual structure of the network — clusters are departments or research groups, and bridges appear visually as nodes between clusters. |
-| **Node size → degree / betweenness** | Size pre-attentively encodes importance; switching between degree and betweenness immediately answers T1 and T2 without reading numbers. |
-| **Node color → department** | Department identity is the primary categorical attribute. The palette uses maximally distinct hues to separate 12+ departments on a dark background. |
-| **Metric color modes** | Sequential color scales (YlOrRd for degree, PuBu for betweenness, Greens for clustering) shift the cognitive task from topology to magnitude per task. |
-| **Dashed orange prediction edges** | Visually distinct from existing edges — orange dashed lines signal "potential", not established relationships, directly answering T4. |
-| **Hover → neighbour highlight** | Reduces cognitive load when exploring a dense graph — non-neighbours fade to near-invisible, making local structure immediately readable. |
-| **Task pills → coordinated update** | Clicking T1/T2/T3/T4 synchronously changes color mode, size mode, ranking, and prediction visibility — one click configures the whole dashboard for one task. |
-| **Click → zoom + detail card** | Overview → zoom → details on demand (Shneiderman mantra). The graph zooms to the selected node and the sidebar shows the full profile with all metrics. |
+| **Force-directed layout** | The layout is driven by the graph structure itself, so clusters and bridges just appear naturally — you don't have to look for them. |
+| **Node size → degree / betweenness** | Bigger means more important for that task. You can answer T1 and T2 just by looking at which nodes are largest, without reading any numbers. |
+| **Node color → department** | The main thing you want to separate visually is departments. The palette picks maximally distinct hues so 12+ departments don't bleed into each other on a dark background. |
+| **Metric color modes** | Switching to degree, betweenness, or clustering color maps the magnitude of that metric directly onto the graph, so the topology and the metric are readable at the same time. |
+| **Dashed orange prediction edges** | Orange dashed lines read immediately as "not real yet" — they don't compete visually with existing edges and answer T4 without any extra explanation. |
+| **Hover → neighbour highlight** | Dense graphs are hard to read. Fading everything except the hovered node and its neighbours makes the local structure readable without changing the layout. |
+| **Task pills → coordinated update** | One click reconfigures color, size, ranking list, and predictions all at once. No manual adjustments needed to switch between tasks. |
+| **Click → detail card** | Overview first, then details on demand. Clicking a node fills the sidebar with that professor's full profile and metrics. |
 
-## Analytical Insight
+## Analytical Insights
 
 **T1 — Who are the most prolific collaborators?**
 
-The highest-degree nodes are Carmen Elena Flores Barreda and Wando Kim (degree 60), both from engineering departments. Selecting "degree" mode makes them immediately obvious as the largest nodes. However, high degree alone doesn't imply influence — many of their connections are within the same large research group.
+Basically, Carmen Elena Flores Barreda and Wando Kim — both at degree 60. Switch to degree mode and they're immediately the two biggest nodes on the canvas. Worth noting though: high degree here doesn't always mean broad reach, since a lot of those connections come from the same large research group.
 
 **T2 — Who acts as a bridge between departments?**
 
-Luis Alberto Bedriñana Mera (betweenness 0.243) and Jose Javier Cerda Hernandez (0.181) stand out clearly in betweenness mode — they have moderate degree but sit on the shortest paths between many pairs, linking Civil Engineering and Industrial Engineering clusters. Removing them would fragment the network significantly.
+Luis Alberto Bedriñana Mera (betweenness 0.243) and Jose Javier Cerda Hernandez (0.181) are the two that stand out. Neither has the highest degree, but they sit on the shortest paths between a lot of node pairs across Civil and Industrial Engineering. Take them out and the network splits.
 
 **T3 — How cohesive are departments internally?**
 
-Departments like Humanidades and Ciencias show high clustering coefficients — their faculty form tight cliques. Engineering departments show lower clustering despite higher degrees, meaning connections spread across groups rather than concentrating within a closed circle. This is visible in the graph: engineering nodes have many edges going in multiple directions, while humanities nodes form compact sub-clusters.
+Humanidades and Ciencias are the tightest — small groups where most people are connected to each other. Engineering is basically the opposite: lots of connections, but spread across many groups, so the clustering is low. You can see this in the graph without even looking at the numbers — humanities nodes form compact little clusters, engineering ones have edges going everywhere.
 
 **T4 — Which new collaborations may emerge?**
 
-The top predicted collaboration by Jaccard similarity is between Patricia Araujo Pantoja and José Luis Mantari Laureano (Jaccard 0.375, 3 common neighbors) — a cross-department pair from Civil Engineering and Mechanical Engineering who share three mutual collaborators but have never co-published. Cross-department predictions (marked in orange) are particularly valuable as they signal potential interdisciplinary work.
+The top prediction is Patricia Araujo Pantoja and José Luis Mantari Laureano (Jaccard 0.375, 3 common neighbors). They're from Civil and Mechanical Engineering, share three mutual collaborators, and haven't worked together yet. Cross-department pairs like this are generally the more interesting predictions since they point toward interdisciplinary work that isn't already happening.
 
 ## Tasks Coverage
 
 | Task | Views | What you can see |
 |---|---|---|
-| T1 | Network (size=degree), Ranking list | Largest nodes = most connected; ranking sorts top 15 |
-| T2 | Network (color=betweenness), Ranking list | High-betweenness nodes glow between clusters |
+| T1 | Network (size=degree, color=degree), Ranking list | Largest nodes = most connected; ranking sorts top 15 |
+| T2 | Network (color=betweenness, size=betweenness), Ranking list | High-betweenness nodes appear between clusters |
 | T3 | Network (color=clustering), Dept filter | Filter by department to see internal cohesion |
 | T4 | Prediction list, Dashed orange edges | Top 20 dashed links show likely future collaborations |
+
+## Visualization Preview
+
+![Visualization](images/visualization.png)
 
 ## Project Structure
 
@@ -68,12 +72,16 @@ NetworkVis/
 │   ├── consts.py
 │   └── funcs.py
 ├── data/
-│   ├── nodes.json
-│   ├── edges.json
-│   └── predictions.json
+│   ├── network.json        ← base node/group data (source of truth)
+│   ├── profiles.json       ← scraped from CRIS UTEC
+│   ├── nodes.json          ← generated by build.py
+│   ├── edges.json          ← generated by build.py
+│   └── predictions.json    ← generated by build.py
+├── images/
+│   └── visualization.png
 ├── transform/
-│   ├── scrap.py
-│   └── build.py
+│   ├── scrap.py            ← scrapes CRIS UTEC → profiles.json
+│   └── build.py            ← builds graph + metrics → nodes/edges/predictions
 └── views/
     ├── styles.css
     ├── graphs/
@@ -90,21 +98,27 @@ NetworkVis/
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+# scrape faculty profiles from CRIS UTEC (requires Chrome)
+python transform/scrap.py
+
+# build graph data — nodes, edges, metrics, predictions
+python transform/build.py
+
 python app.py
 ```
 
 Open [http://localhost:5050](http://localhost:5050).
 
-## Data Pipeline
+## Metrics
 
-```bash
-# 1. Scrape CRIS UTEC (requires Chrome)
-python transform/scrap.py
-# → generates data/profiles.json
+Network metrics are computed with NetworkX on the co-membership graph:
 
-# 2. Build graph data from profiles + base network
-python transform/build.py
-# → generates data/nodes.json, data/edges.json, data/predictions.json
-```
+| Metric | Description |
+|---|---|
+| **Degree** | Number of direct collaborators |
+| **Betweenness** | Fraction of shortest paths passing through a node (normalized) |
+| **Clustering** | How tightly a node's neighbours are connected among themselves |
+| **Citations** | Scraped from CRIS UTEC researcher profile |
 
-Edges are constructed from co-membership in shared research groups. Network metrics (degree, betweenness, clustering, PageRank) are computed with NetworkX. Link predictions use Common Neighbors + Jaccard similarity, filtered to node pairs in the same connected component.
+Link predictions use **Common Neighbors** count and **Jaccard similarity**, filtered to node pairs in the same connected component with at least one shared neighbor.
