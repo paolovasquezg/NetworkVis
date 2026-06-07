@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>UTEC Faculty Network</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500;600&display=swap"
+    rel="stylesheet">
+  <script src="/views/lib/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="/views/styles.css">
+</head>
+
+<body>
+
+  <header>
+    <div class="header-left">
+      <h1>UTEC Research Network</h1>
+    </div>
+    <div class="header-controls">
+      <div class="control-group">
+        <label>Color</label>
+        <select id="color-mode">
+          <option value="department">Department</option>
+          <option value="degree">Degree</option>
+          <option value="betweenness">Betweenness</option>
+          <option value="clustering">Clustering</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label>Size</label>
+        <select id="size-mode">
+          <option value="degree">Degree</option>
+          <option value="betweenness">Betweenness</option>
+          <option value="pagerank">PageRank</option>
+          <option value="citations">Citations</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label>Filter</label>
+        <select id="dept-filter">
+          <option value="all">All departments</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <div class="tasks-bar">
+    <div class="task-pill active" data-task="t1"><span>T1</span> Who are the most prolific collaborators?</div>
+    <div class="task-pill" data-task="t2"><span>T2</span> Who bridges departments?</div>
+    <div class="task-pill" data-task="t3"><span>T3</span> How cohesive are departments internally?</div>
+    <div class="task-pill" data-task="t4"><span>T4</span> Which new collaborations may emerge?</div>
+  </div>
+
+  <div class="main-layout">
+
+    <!-- ── NETWORK PANEL ── -->
+    <div class="panel panel-network">
+      <div class="panel-body" id="network-container">
+        <div class="legend-overlay" id="legend"></div>
+      </div>
+    </div>
+
+    <!-- ── SIDEBAR ── -->
+    <div class="sidebar">
+
+      <!-- Professor detail card -->
+      <div class="panel panel-detail" id="detail-panel">
+        <div class="panel-header">
+          <h2>Professor Detail</h2>
+          <span class="task-tag">T1 · T2 · T3</span>
+        </div>
+        <div class="detail-body" id="detail-body">
+          <div class="detail-placeholder">
+            <span>Click a node to explore</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Metrics ranking -->
+      <div class="panel panel-ranking">
+        <div class="panel-header">
+          <h2 id="ranking-title">Top Collaborators</h2>
+          <span class="task-tag" id="ranking-task">T1</span>
+        </div>
+        <div class="panel-body">
+          <ul class="ranking-list" id="ranking-list"></ul>
+        </div>
+      </div>
+
+      <!-- Link predictions -->
+      <div class="panel panel-predictions">
+        <div class="panel-header">
+          <h2>Predicted Collaborations</h2>
+          <span class="task-tag">T4</span>
+        </div>
+        <div class="panel-body">
+          <ul class="pred-list" id="pred-list"></ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <script src="/views/helpers/state.js"></script>
+  <script src="/views/graphs/network.js"></script>
+  <script src="/views/helpers/sidebar.js"></script>
+  <script src="/views/helpers/main.js"></script>
+
+</body>
+
+</html>
