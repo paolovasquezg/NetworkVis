@@ -89,6 +89,7 @@ NetworkVis/
     │   └── network.js
     └── helpers/
         ├── consts.js       ← department names and color palette
+        ├── funcs.js        ← graph/UI utilities
         ├── state.js
         ├── sidebar.js
         └── main.js
