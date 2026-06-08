@@ -444,7 +444,7 @@ a.detail-email:hover {
 
 /* ── RANKING ── */
 .panel-ranking {
-  flex: 0 0 530px;
+  flex: 1 1 0;
   border-right: none;
   min-height: 0;
 }
@@ -521,8 +521,7 @@ a.detail-email:hover {
 
 /* ── PREDICTIONS ── */
 .panel-predictions {
-  flex: 0 0 auto;
-  max-height: 275px;
+  flex: 0 0 220px;
   border-right: none;
   border-bottom: none;
 }
