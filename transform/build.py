@@ -89,7 +89,7 @@ for node in nodes:
     if node.get("research_groups"):
         for research_group in node["research_groups"].split(";"):
             research_group = research_group.strip()
-            if research_group:
+            if research_group and research_group != "Organización/Áreas":
                 research_group_to_member_ids[research_group].append(node["id"])
 
 co_membership_edges = defaultdict(lambda: {"weight": 0, "shared_groups": []})

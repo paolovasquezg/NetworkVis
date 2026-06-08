@@ -51,10 +51,10 @@ const State = (() => {
   }
 
   // Size scales
-  const degreeSize  = d3.scaleSqrt().domain([0, 60]).range([4, 18]);
-  const btwSize     = d3.scaleSqrt().domain([0, 0.25]).range([4, 18]);
-  const prSize      = d3.scaleSqrt().domain([0, 0.02]).range([4, 18]);
-  const citSize     = d3.scaleSqrt().domain([0, 60000]).range([4, 18]);
+  const degreeSize  = d3.scaleSqrt().domain([0, 60]).range([10, 36]);
+  const btwSize     = d3.scaleSqrt().domain([0, 0.25]).range([10, 36]);
+  const prSize      = d3.scaleSqrt().domain([0, 0.02]).range([10, 36]);
+  const citSize     = d3.scaleSqrt().domain([0, 60000]).range([10, 36]);
 
   function nodeSize(d, mode) {
     if (mode === "degree")      return degreeSize(d.degree);

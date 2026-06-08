@@ -216,6 +216,105 @@
     "cross_dept": true
   },
   {
+    "source": 4,
+    "target": 6,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Andrés Julián Arias Moreno",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 14,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Paul Cardenas Lizana",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 23,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Alberto Donayre Torres",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 25,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Elena Flores Barreda",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 43,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Wangdo Kim",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 63,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Alejandra Ratti Parandelli",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 69,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Harry Gustavo Saavedra Espinoza",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 83,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Julio Ernesto Valdivia Silva",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 85,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Emir Augusto Vela Saavedra",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 99,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Carmen Elena Flores Barreda",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 4,
+    "target": 102,
+    "source_name": "Sergio Aranda Egusquiza",
+    "target_name": "Wando Kim",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
     "source": 6,
     "target": 12,
     "source_name": "Andrés Julián Arias Moreno",
@@ -324,127 +423,28 @@
     "cross_dept": true
   },
   {
-    "source": 14,
-    "target": 27,
-    "source_name": "Paul Cardenas Lizana",
-    "target_name": "Christian Flores Vega",
+    "source": 12,
+    "target": 99,
+    "source_name": "Jhedmar Jhonatan Callupe Luna",
+    "target_name": "Carmen Elena Flores Barreda",
+    "common_neighbors": 3,
+    "jaccard": 0.1765,
+    "cross_dept": true
+  },
+  {
+    "source": 12,
+    "target": 102,
+    "source_name": "Jhedmar Jhonatan Callupe Luna",
+    "target_name": "Wando Kim",
     "common_neighbors": 3,
     "jaccard": 0.1765,
     "cross_dept": true
   },
   {
     "source": 14,
-    "target": 41,
-    "source_name": "Paul Cardenas Lizana",
-    "target_name": "Elvis Jara Alegria",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 14,
-    "target": 61,
-    "source_name": "Paul Cardenas Lizana",
-    "target_name": "Oscar Ramos Ponce",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 23,
     "target": 27,
-    "source_name": "Alberto Donayre Torres",
+    "source_name": "Paul Cardenas Lizana",
     "target_name": "Christian Flores Vega",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 23,
-    "target": 41,
-    "source_name": "Alberto Donayre Torres",
-    "target_name": "Elvis Jara Alegria",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 23,
-    "target": 61,
-    "source_name": "Alberto Donayre Torres",
-    "target_name": "Oscar Ramos Ponce",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 25,
-    "target": 27,
-    "source_name": "Elena Flores Barreda",
-    "target_name": "Christian Flores Vega",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 25,
-    "target": 41,
-    "source_name": "Elena Flores Barreda",
-    "target_name": "Elvis Jara Alegria",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 25,
-    "target": 61,
-    "source_name": "Elena Flores Barreda",
-    "target_name": "Oscar Ramos Ponce",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 27,
-    "target": 43,
-    "source_name": "Christian Flores Vega",
-    "target_name": "Wangdo Kim",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 27,
-    "target": 63,
-    "source_name": "Christian Flores Vega",
-    "target_name": "Alejandra Ratti Parandelli",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 27,
-    "target": 69,
-    "source_name": "Christian Flores Vega",
-    "target_name": "Harry Gustavo Saavedra Espinoza",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 27,
-    "target": 83,
-    "source_name": "Christian Flores Vega",
-    "target_name": "Julio Ernesto Valdivia Silva",
-    "common_neighbors": 3,
-    "jaccard": 0.1765,
-    "cross_dept": true
-  },
-  {
-    "source": 27,
-    "target": 85,
-    "source_name": "Christian Flores Vega",
-    "target_name": "Emir Augusto Vela Saavedra",
     "common_neighbors": 3,
     "jaccard": 0.1765,
     "cross_dept": true

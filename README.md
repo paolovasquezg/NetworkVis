@@ -33,19 +33,19 @@ Flask + D3.js app that maps research collaboration among UTEC faculty. Edges con
 
 **T1 — Who are the most prolific collaborators?**
 
-Basically, Carmen Elena Flores Barreda and Wando Kim — both at degree 60. Switch to degree mode and they're immediately the two biggest nodes on the canvas. Worth noting though: high degree here doesn't always mean broad reach, since a lot of those connections come from the same large research group.
+Ruth Canahuire Cabello, Deyby Huamanchahua Canchanya, and Dante Inga Narvaez are the top three, all at degree 18. Switch to degree mode and they're immediately the biggest nodes on the canvas. Worth noting though: high degree here doesn't always mean broad reach — a lot of those connections tend to come from the same large research group.
 
 **T2 — Who acts as a bridge between departments?**
 
-Luis Alberto Bedriñana Mera (betweenness 0.243) and Jose Javier Cerda Hernandez (0.181) are the two that stand out. Neither has the highest degree, but they sit on the shortest paths between a lot of node pairs across Civil and Industrial Engineering. Take them out and the network splits.
+Jose Fiestas Iquira (betweenness 0.050) and Juan Carlos Rodríguez Reyes (0.038) are the two that stand out. Neither has the highest degree, but they sit on the shortest paths between a lot of node pairs across different departments. Take them out and the network fragments.
 
 **T3 — How cohesive are departments internally?**
 
-Humanidades and Ciencias are the tightest — small groups where most people are connected to each other. Engineering is basically the opposite: lots of connections, but spread across many groups, so the clustering is low. You can see this in the graph without even looking at the numbers — humanities nodes form compact little clusters, engineering ones have edges going everywhere.
+Ciencias has by far the lowest average clustering (0.137), meaning its faculty connect broadly across groups rather than forming tight internal circles. On the other end, Ingeniería Mecánica (0.885) and Humanidades (0.750) are the most internally cohesive — most of their members know each other directly. You can see this in the graph: Ciencias nodes have edges going in many directions, while Mecánica and Humanidades nodes form compact sub-clusters.
 
 **T4 — Which new collaborations may emerge?**
 
-The top prediction is Patricia Araujo Pantoja and José Luis Mantari Laureano (Jaccard 0.375, 3 common neighbors). They're from Civil and Mechanical Engineering, share three mutual collaborators, and haven't worked together yet. Cross-department pairs like this are generally the more interesting predictions since they point toward interdisciplinary work that isn't already happening.
+The top prediction is Samuel Charca Mamani and Elba Rosaura Vazques Arrieta (Jaccard 0.500, 2 common neighbors) — a cross-department pair who share two mutual collaborators but haven't worked together yet. Cross-department pairs like this are generally the more interesting predictions since they point toward interdisciplinary work that isn't already happening.
 
 ## Tasks Coverage
 

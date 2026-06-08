@@ -57,10 +57,10 @@ function NetworkGraph(nodes, edges, predictions) {
 
   // ── Simulation ────────────────────────────────────────────────────────────
   const simulation = d3.forceSimulation(nodes)
-    .force("link", d3.forceLink(edges).id(d => d.id).distance(d => 40 - d.weight * 5).strength(0.4))
-    .force("charge", d3.forceManyBody().strength(-120))
-    .force("center", d3.forceCenter(W / 2, H / 2))
-    .force("collision", d3.forceCollide().radius(d => State.nodeSize(d, sizeMode) + 2));
+    .force("link", d3.forceLink(edges).id(d => d.id).distance(d => 20 - d.weight * 2).strength(0.8))
+    .force("charge", d3.forceManyBody().strength(-50))
+    .force("center", d3.forceCenter(W / 2, H / 2).strength(0.2))
+    .force("collision", d3.forceCollide().radius(d => State.nodeSize(d, sizeMode) + 3));
 
   // ── Draw links ────────────────────────────────────────────────────────────
   const link = linkLayer.selectAll("line")
