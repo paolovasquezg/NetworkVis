@@ -161,7 +161,7 @@ function NetworkGraph(nodes, edges, predictions) {
       <div class="tt-dept">${d.department}</div>
       <div>Degree: <span class="tt-metric">${d.degree}</span> &nbsp;
            Betweenness: <span class="tt-metric">${d.betweenness.toFixed(3)}</span></div>
-      <div>PageRank: <span class="tt-metric">${d.pagerank.toFixed(4)}</span> &nbsp;
+      <div>Influence: <span class="tt-metric">${d.pagerank.toFixed(4)}</span> &nbsp;
            Clustering: <span class="tt-metric">${d.clustering.toFixed(3)}</span></div>
       <div style="margin-top:4px;font-size:.65rem;color:#5a7090">${r}</div>
     `);
