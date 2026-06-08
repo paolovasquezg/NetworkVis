@@ -166,6 +166,16 @@ function Network(nodes, edges, predictions) {
       .attr("stroke-opacity", opacity)
       .attr("stroke-dasharray", "4 3")
       .attr("marker-end", "url(#arrow)");
+
+    predictionLinks.each(function (d) {
+      const src = nodesById.get(d.source);
+      const tgt = nodesById.get(d.target);
+      if (src && tgt) {
+        d3.select(this)
+          .attr("x1", src.x).attr("y1", src.y)
+          .attr("x2", tgt.x).attr("y2", tgt.y);
+      }
+    });
   }
 
   function filterPredToNode(d) {
