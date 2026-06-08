@@ -277,8 +277,8 @@ function NetworkGraph(nodes, edges, predictions) {
 
   // ── Legend ────────────────────────────────────────────────────────────────
   const GRADIENT_CONFIGS = {
-    degree:      { title: "Color · Degree",      min: "0", max: "60+",  from: "#f5c518", to: "#bd0026" },
-    betweenness: { title: "Color · Betweenness", min: "0", max: "0.25", from: "#4cc9f0", to: "#03045e" },
+    degree:      { title: "Color · Degree",      min: "0", max: "18",   from: "#f5c518", to: "#bd0026" },
+    betweenness: { title: "Color · Betweenness", min: "0", max: "0.05", from: "#4cc9f0", to: "#03045e" },
     clustering:  { title: "Color · Clustering",  min: "0", max: "1",    from: "#80ffb0", to: "#005a32" },
   };
 
