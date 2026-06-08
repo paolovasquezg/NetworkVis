@@ -1487,6 +1487,16 @@
     ]
   },
   {
+    "source": 7,
+    "target": 94,
+    "weight": 3,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+      "Centro de Investigación del Cemento y Concreto - CIC",
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
     "source": 10,
     "target": 24,
     "weight": 1,
@@ -1495,8 +1505,32 @@
     ]
   },
   {
+    "source": 10,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    ]
+  },
+  {
+    "source": 24,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+    ]
+  },
+  {
     "source": 7,
     "target": 84,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación del Cemento y Concreto - CIC"
+    ]
+  },
+  {
+    "source": 84,
+    "target": 94,
     "weight": 1,
     "shared_groups": [
       "Centro de Investigación del Cemento y Concreto - CIC"
@@ -1543,8 +1577,32 @@
     ]
   },
   {
+    "source": 15,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
     "source": 20,
     "target": 67,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 20,
+    "target": 94,
+    "weight": 1,
+    "shared_groups": [
+      "Centro de Investigación y Conservación del Patrimonio"
+    ]
+  },
+  {
+    "source": 67,
+    "target": 94,
     "weight": 1,
     "shared_groups": [
       "Centro de Investigación y Conservación del Patrimonio"
@@ -2176,54 +2234,6 @@
     "weight": 1,
     "shared_groups": [
       "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)"
-    ]
-  },
-  {
-    "source": 82,
-    "target": 88,
-    "weight": 1,
-    "shared_groups": [
-      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
-    ]
-  },
-  {
-    "source": 82,
-    "target": 103,
-    "weight": 1,
-    "shared_groups": [
-      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
-    ]
-  },
-  {
-    "source": 82,
-    "target": 105,
-    "weight": 1,
-    "shared_groups": [
-      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
-    ]
-  },
-  {
-    "source": 88,
-    "target": 103,
-    "weight": 1,
-    "shared_groups": [
-      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
-    ]
-  },
-  {
-    "source": 88,
-    "target": 105,
-    "weight": 1,
-    "shared_groups": [
-      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
-    ]
-  },
-  {
-    "source": 103,
-    "target": 105,
-    "weight": 1,
-    "shared_groups": [
-      "Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI"
     ]
   }
 ]

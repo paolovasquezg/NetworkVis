@@ -82,12 +82,14 @@ def ScrapePersonProfile(driver, profile_url):
     department_names = [e.text.strip() for e in department_elements if "departamento" in e.text.lower()]
     person_data["department"] = department_names[0] if department_names else ""
 
+    RESEARCH_GROUP_PREFIXES = ("grupo de investigación", "centro de investigación", "centro de impacto")
+
     organization_elements = driver.find_elements(By.CSS_SELECTOR, "a[href*='/organisations/']")
     research_group_names = []
-    
+
     for element in organization_elements:
         element_text = element.text.strip()
-        if (element_text and "universidad" not in element_text.lower() and "utec" not in element_text.lower() and "departamento" not in element_text.lower()):
+        if any(element_text.lower().startswith(p) for p in RESEARCH_GROUP_PREFIXES):
             research_group_names.append(element_text)
 
     person_data["research_groups"] = "; ".join(dict.fromkeys(research_group_names))

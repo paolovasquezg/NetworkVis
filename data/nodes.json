@@ -14,7 +14,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.011212,
+    "pagerank": 0.011717,
     "component": 0
   },
   {
@@ -23,7 +23,7 @@
     "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
     "image_url": "https://cris.utec.edu.pe/files-asset/24799661/alexandrino-ocana-grace.jpg?w=160&f=jpg",
     "email": "",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Arqueología; Antropología; Estudios de Patrimonio",
     "citations": 8,
     "h_index": null,
@@ -32,7 +32,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 1
   },
   {
@@ -50,7 +50,7 @@
     "weighted_degree": 11,
     "betweenness": 0.001747,
     "clustering": 0.833333,
-    "pagerank": 0.016466,
+    "pagerank": 0.017208,
     "component": 0
   },
   {
@@ -68,7 +68,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.011212,
+    "pagerank": 0.011717,
     "component": 0
   },
   {
@@ -77,7 +77,7 @@
     "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
     "image_url": "https://cris.utec.edu.pe/files-asset/19172342/aranda_egusquiza_sergio.jpg?w=160&f=jpg",
     "email": "saranda@utec.edu.pe",
-    "research_groups": "Organización/Áreas; Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+    "research_groups": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
     "research_areas": "Sistemas inteligentes.; Redes de comunicación.",
     "citations": 1,
     "h_index": null,
@@ -86,7 +86,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.008544,
+    "pagerank": 0.008929,
     "component": 2
   },
   {
@@ -104,7 +104,7 @@
     "weighted_degree": 8,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.01227,
+    "pagerank": 0.012823,
     "component": 0
   },
   {
@@ -122,7 +122,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -140,7 +140,7 @@
     "weighted_degree": 9,
     "betweenness": 0.023342,
     "clustering": 0.47619,
-    "pagerank": 0.016829,
+    "pagerank": 0.017588,
     "component": 0
   },
   {
@@ -158,7 +158,7 @@
     "weighted_degree": 11,
     "betweenness": 0.001747,
     "clustering": 0.833333,
-    "pagerank": 0.016466,
+    "pagerank": 0.017208,
     "component": 0
   },
   {
@@ -176,7 +176,7 @@
     "weighted_degree": 12,
     "betweenness": 0.00273,
     "clustering": 0.733333,
-    "pagerank": 0.018358,
+    "pagerank": 0.019186,
     "component": 0
   },
   {
@@ -194,7 +194,7 @@
     "weighted_degree": 3,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.006447,
+    "pagerank": 0.006737,
     "component": 0
   },
   {
@@ -203,7 +203,7 @@
     "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
     "image_url": "https://cris.utec.edu.pe/files-asset/19489355/bueno_villanueva_juan.jpg?w=160&f=jpg",
     "email": "jbueno@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Sistemas de Información",
     "citations": 0,
     "h_index": null,
@@ -212,7 +212,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 3
   },
   {
@@ -230,7 +230,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.008544,
+    "pagerank": 0.008929,
     "component": 2
   },
   {
@@ -248,7 +248,7 @@
     "weighted_degree": 20,
     "betweenness": 0.003003,
     "clustering": 0.640523,
-    "pagerank": 0.019541,
+    "pagerank": 0.020421,
     "component": 2
   },
   {
@@ -266,7 +266,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -284,7 +284,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.008153,
+    "pagerank": 0.008521,
     "component": 0
   },
   {
@@ -293,7 +293,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/19169822/chavez_pacheco_xyoby.jpg?w=160&f=jpg",
     "email": "xchavez@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Matemática Aplicada; Modelado de sistemas estocásticos",
     "citations": 0,
     "h_index": null,
@@ -302,7 +302,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 4
   },
   {
@@ -320,7 +320,7 @@
     "weighted_degree": 15,
     "betweenness": 0.012776,
     "clustering": 0.538462,
-    "pagerank": 0.022166,
+    "pagerank": 0.023164,
     "component": 0
   },
   {
@@ -338,7 +338,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012682,
+    "pagerank": 0.013254,
     "component": 5
   },
   {
@@ -347,7 +347,7 @@
     "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
     "image_url": "https://cris.utec.edu.pe/files-asset/19170040/delapuente_maldonado_jose.jpg?w=160&f=jpg",
     "email": "jdelapuente@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Opeaciones industriales; Gestión empresarial",
     "citations": 0,
     "h_index": null,
@@ -356,7 +356,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 6
   },
   {
@@ -374,7 +374,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.008153,
+    "pagerank": 0.008521,
     "component": 0
   },
   {
@@ -383,7 +383,7 @@
     "department": "Unknown Department",
     "image_url": "https://cris.utec.edu.pe/files-asset/21821347/deustua_rossel_jose_gerardo.jpg?w=160&f=jpg",
     "email": "jdeustua@utec.edu.pe",
-    "research_groups": "Organización/Áreas; Dirección General de Innovación e Investigación",
+    "research_groups": "",
     "research_areas": "",
     "citations": 0,
     "h_index": null,
@@ -392,7 +392,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 7
   },
   {
@@ -410,7 +410,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.007303,
+    "pagerank": 0.007632,
     "component": 0
   },
   {
@@ -428,7 +428,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -446,7 +446,7 @@
     "weighted_degree": 11,
     "betweenness": 0.049795,
     "clustering": 0.563636,
-    "pagerank": 0.017651,
+    "pagerank": 0.018446,
     "component": 0
   },
   {
@@ -464,7 +464,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -482,7 +482,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.011212,
+    "pagerank": 0.011717,
     "component": 0
   },
   {
@@ -500,7 +500,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.008544,
+    "pagerank": 0.008929,
     "component": 2
   },
   {
@@ -518,7 +518,7 @@
     "weighted_degree": 9,
     "betweenness": 0.005569,
     "clustering": 0.777778,
-    "pagerank": 0.015406,
+    "pagerank": 0.0161,
     "component": 0
   },
   {
@@ -527,7 +527,7 @@
     "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
     "image_url": "https://cris.utec.edu.pe/files-asset/19170274/gamonal_pajares_oscar.jpg?w=160&f=jpg",
     "email": "ogamonal@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "",
     "citations": 0,
     "h_index": null,
@@ -536,7 +536,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 8
   },
   {
@@ -554,7 +554,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.007303,
+    "pagerank": 0.007632,
     "component": 0
   },
   {
@@ -572,7 +572,7 @@
     "weighted_degree": 8,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012662,
+    "pagerank": 0.013233,
     "component": 0
   },
   {
@@ -590,7 +590,7 @@
     "weighted_degree": 6,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012189,
+    "pagerank": 0.012738,
     "component": 9
   },
   {
@@ -608,7 +608,7 @@
     "weighted_degree": 10,
     "betweenness": 0.010811,
     "clustering": 0.644444,
-    "pagerank": 0.017533,
+    "pagerank": 0.018324,
     "component": 0
   },
   {
@@ -626,7 +626,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.011212,
+    "pagerank": 0.011717,
     "component": 0
   },
   {
@@ -635,7 +635,7 @@
     "department": "Departamento de Negocios Digitales",
     "image_url": "https://cris.utec.edu.pe/files-asset/23816546/Dise_o_sin_t_tulo_46_.png?w=160&f=jpg",
     "email": "yherrera@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "",
     "citations": 6,
     "h_index": null,
@@ -644,7 +644,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 10
   },
   {
@@ -662,7 +662,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012682,
+    "pagerank": 0.013254,
     "component": 5
   },
   {
@@ -680,7 +680,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.013916,
+    "pagerank": 0.014543,
     "component": 9
   },
   {
@@ -689,7 +689,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/20164343/hoyos_diaz_rocio.jpg?w=160&f=jpg",
     "email": "rhoyos@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "",
     "citations": 0,
     "h_index": null,
@@ -698,7 +698,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 11
   },
   {
@@ -716,7 +716,7 @@
     "weighted_degree": 20,
     "betweenness": 0.003003,
     "clustering": 0.640523,
-    "pagerank": 0.019541,
+    "pagerank": 0.020421,
     "component": 2
   },
   {
@@ -734,7 +734,7 @@
     "weighted_degree": 20,
     "betweenness": 0.003003,
     "clustering": 0.640523,
-    "pagerank": 0.019541,
+    "pagerank": 0.020421,
     "component": 2
   },
   {
@@ -752,7 +752,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.008544,
+    "pagerank": 0.008929,
     "component": 2
   },
   {
@@ -761,7 +761,7 @@
     "department": "Departamento de Ingeniería Civil y Ambiental",
     "image_url": "https://cris.utec.edu.pe/files-asset/21819856/juarez_aquino_enrique.jpg?w=160&f=jpg",
     "email": "ejuarez@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Gestión de proyectos de construcción con un enfoque en la Entrega Integrada de Proyectos (IPD) con el apoyo de LEAN; PMO",
     "citations": 0,
     "h_index": null,
@@ -770,7 +770,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 12
   },
   {
@@ -788,7 +788,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -806,7 +806,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.011212,
+    "pagerank": 0.011717,
     "component": 0
   },
   {
@@ -824,7 +824,7 @@
     "weighted_degree": 12,
     "betweenness": 0.00273,
     "clustering": 0.733333,
-    "pagerank": 0.018358,
+    "pagerank": 0.019186,
     "component": 0
   },
   {
@@ -833,7 +833,7 @@
     "department": "Departamento de Negocios Digitales",
     "image_url": "https://cris.utec.edu.pe/files-asset/21820262/lunga_calderon_milagros_cecilia.jpg?w=160&f=jpg",
     "email": "mlunga@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Business and Economics; Finanas",
     "citations": 0,
     "h_index": null,
@@ -842,7 +842,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 13
   },
   {
@@ -860,7 +860,7 @@
     "weighted_degree": 3,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.005719,
+    "pagerank": 0.005976,
     "component": 0
   },
   {
@@ -878,7 +878,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012682,
+    "pagerank": 0.013254,
     "component": 5
   },
   {
@@ -896,7 +896,7 @@
     "weighted_degree": 1,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.003357,
+    "pagerank": 0.003509,
     "component": 0
   },
   {
@@ -905,7 +905,7 @@
     "department": "Departamento de Ciencia de la Computación",
     "image_url": "https://cris.utec.edu.pe/files-asset/25783575/mora-colque-rensso-victor-hugo_.jpg?w=160&f=jpg",
     "email": "rmora@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Visión por computadora; Aprendizaje automático; Series temporales",
     "citations": 245,
     "h_index": null,
@@ -914,7 +914,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 14
   },
   {
@@ -932,7 +932,7 @@
     "weighted_degree": 6,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012189,
+    "pagerank": 0.012738,
     "component": 9
   },
   {
@@ -950,7 +950,7 @@
     "weighted_degree": 2,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.005901,
+    "pagerank": 0.006167,
     "component": 0
   },
   {
@@ -968,7 +968,7 @@
     "weighted_degree": 8,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.01227,
+    "pagerank": 0.012823,
     "component": 0
   },
   {
@@ -986,7 +986,7 @@
     "weighted_degree": 1,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.012682,
+    "pagerank": 0.013254,
     "component": 15
   },
   {
@@ -995,7 +995,7 @@
     "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171246/ortiz_garcia_maria_belen.jpg?w=160&f=jpg",
     "email": "mortizg@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Sistemas Integrados de Gestión; Gestión por Procesos y herramientas de Mejora Continua; Ingeniería Cognitiva/Factores Humanos.",
     "citations": 7,
     "h_index": null,
@@ -1004,7 +1004,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 16
   },
   {
@@ -1013,7 +1013,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171263/pantoja_carhuavilca_hermes.jpg?w=160&f=jpg",
     "email": "hpantoja@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Carlos Monge IV",
     "citations": 0,
     "h_index": null,
@@ -1022,7 +1022,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 17
   },
   {
@@ -1031,7 +1031,7 @@
     "department": "Departamento de Bioingeniería e Ingeniería Química",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171281/parada_quinaya_diana.jpg?w=160&f=jpg",
     "email": "dparada@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Compuestos sostenibles; polímeros lignocelulósicos compuestos de residuos agrícolas; biomateriales y bioplásticos; revestimientos de polímeros bioactivos; ingeniería de bioprocesos; mejora del proceso de electrodeposición de cobre utilizando soluciones libres de cianuro",
     "citations": 71,
     "h_index": null,
@@ -1040,7 +1040,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 18
   },
   {
@@ -1049,7 +1049,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171302/pena_nevado_alexander.jpg?w=160&f=jpg",
     "email": "apena@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "",
     "citations": 0,
     "h_index": null,
@@ -1058,7 +1058,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 19
   },
   {
@@ -1067,7 +1067,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171327/quispe_rodriguez_sergio.jpg?w=160&f=jpg",
     "email": "squispe@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "",
     "citations": 0,
     "h_index": null,
@@ -1076,7 +1076,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 20
   },
   {
@@ -1094,7 +1094,7 @@
     "weighted_degree": 8,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.01227,
+    "pagerank": 0.012823,
     "component": 0
   },
   {
@@ -1112,7 +1112,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.008544,
+    "pagerank": 0.008929,
     "component": 2
   },
   {
@@ -1130,7 +1130,7 @@
     "weighted_degree": 11,
     "betweenness": 0.001747,
     "clustering": 0.833333,
-    "pagerank": 0.016466,
+    "pagerank": 0.017208,
     "component": 0
   },
   {
@@ -1148,7 +1148,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -1166,7 +1166,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.013916,
+    "pagerank": 0.014543,
     "component": 9
   },
   {
@@ -1175,7 +1175,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/21816332/renom_andara_jose.jpg?w=160&f=jpg",
     "email": "jrenom@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Teoría de grafos; Estadística aplicada; Probabilidades; Simulación y análisis de datos",
     "citations": 173,
     "h_index": null,
@@ -1184,7 +1184,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 21
   },
   {
@@ -1193,7 +1193,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171519/rios_cuadros_alejandro.jpg?w=160&f=jpg",
     "email": "arios@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Nanomateriales y Semiconductores",
     "citations": 0,
     "h_index": null,
@@ -1202,7 +1202,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 22
   },
   {
@@ -1220,7 +1220,7 @@
     "weighted_degree": 12,
     "betweenness": 0.038329,
     "clustering": 0.515152,
-    "pagerank": 0.018883,
+    "pagerank": 0.019734,
     "component": 0
   },
   {
@@ -1229,7 +1229,7 @@
     "department": "Departamento de Bioingeniería e Ingeniería Química",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171564/rodriguez_zuniga_ursula.jpg?w=160&f=jpg",
     "email": "urodriguez@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Análisis Espectroscópicas; Ingeniería Ambiental; Bioprocesos; Ingeniería bioquímica; Fermentación para producción de enzimas; Biocombustibles",
     "citations": 380,
     "h_index": null,
@@ -1238,7 +1238,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 23
   },
   {
@@ -1256,7 +1256,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -1265,7 +1265,7 @@
     "department": "Departamento de Ciencia de la Computación",
     "image_url": "https://cris.utec.edu.pe/files-asset/21849976/sanchez_enriquez_heider.jpg?w=160&f=jpg",
     "email": "hsanchez@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Análisis y desarrollo de software; minería de datos; inteligencia artificial",
     "citations": 43,
     "h_index": null,
@@ -1274,7 +1274,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 24
   },
   {
@@ -1283,7 +1283,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/20164583/sanchez_ramirez_nedher.jpg?w=160&f=jpg",
     "email": "nsanchezr@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Ciencias químicas; Electroquímica en particular baterías de ion litio y líquidos iónicos",
     "citations": 353,
     "h_index": null,
@@ -1292,7 +1292,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 25
   },
   {
@@ -1310,7 +1310,7 @@
     "weighted_degree": 6,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012189,
+    "pagerank": 0.012738,
     "component": 9
   },
   {
@@ -1328,7 +1328,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 26
   },
   {
@@ -1346,7 +1346,7 @@
     "weighted_degree": 19,
     "betweenness": 0.017472,
     "clustering": 0.45,
-    "pagerank": 0.027887,
+    "pagerank": 0.029144,
     "component": 0
   },
   {
@@ -1364,7 +1364,7 @@
     "weighted_degree": 8,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012662,
+    "pagerank": 0.013233,
     "component": 0
   },
   {
@@ -1373,7 +1373,7 @@
     "department": "Departamento de Ciencia de la Computación",
     "image_url": "https://cris.utec.edu.pe/files-asset/26454982/soriano-vargas-aurea-rossy.jpg?w=160&f=jpg",
     "email": "asoriano@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Inteligencia artificial; análisis visual; ciencia de datos; representación de datos; aprendizaje automático; aprendizaje profundo",
     "citations": 131,
     "h_index": null,
@@ -1382,7 +1382,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 27
   },
   {
@@ -1391,7 +1391,7 @@
     "department": "Facultad de Negocios",
     "image_url": "https://cris.utec.edu.pe/files-asset/23816640/Dise_o_sin_t_tulo_49_.png?w=160&f=jpg",
     "email": "estiglich@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Transformación de los modelos educativos; consultoría empresarial; finanzas corporativas",
     "citations": 0,
     "h_index": null,
@@ -1400,7 +1400,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 28
   },
   {
@@ -1418,7 +1418,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012682,
+    "pagerank": 0.013254,
     "component": 5
   },
   {
@@ -1427,7 +1427,7 @@
     "department": "Departamento de Bioingeniería e Ingeniería Química",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171653/tarazona_vasquez_francisco.jpg?w=160&f=jpg",
     "email": "ftarazona@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Simulación molecular; análisis termodinámicos; imulación e ingeniería de procesos",
     "citations": 207,
     "h_index": null,
@@ -1436,7 +1436,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
+    "pagerank": 0.001988,
     "component": 29
   },
   {
@@ -1454,7 +1454,7 @@
     "weighted_degree": 1,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.012682,
+    "pagerank": 0.013254,
     "component": 15
   },
   {
@@ -1472,7 +1472,7 @@
     "weighted_degree": 2,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.005901,
+    "pagerank": 0.006167,
     "component": 0
   },
   {
@@ -1481,16 +1481,16 @@
     "department": "Unknown Department",
     "image_url": "https://cris.utec.edu.pe/files-asset/25754099/torres-escobar-david-wilfredo.jpg?w=160&f=jpg",
     "email": "dtorres@utec.edu.pe",
-    "research_groups": "Organización/Áreas; Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
+    "research_groups": "",
     "research_areas": "biodiversidad; servicios ecosistémicos; gestión; capital natural; mercados ambientales",
     "citations": 0,
     "h_index": null,
     "publication_count": null,
-    "degree": 3,
-    "weighted_degree": 3,
+    "degree": 0,
+    "weighted_degree": 0,
     "betweenness": 0.0,
-    "clustering": 1.0,
-    "pagerank": 0.012682,
+    "clustering": 0,
+    "pagerank": 0.001988,
     "component": 30
   },
   {
@@ -1508,7 +1508,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -1526,7 +1526,7 @@
     "weighted_degree": 2,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.005083,
+    "pagerank": 0.005312,
     "component": 0
   },
   {
@@ -1544,7 +1544,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -1562,7 +1562,7 @@
     "weighted_degree": 8,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.01227,
+    "pagerank": 0.012823,
     "component": 0
   },
   {
@@ -1580,7 +1580,7 @@
     "weighted_degree": 8,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.01227,
+    "pagerank": 0.012823,
     "component": 0
   },
   {
@@ -1589,17 +1589,17 @@
     "department": "Unknown Department",
     "image_url": "https://cris.utec.edu.pe/files-asset/26455000/wong-sato-akira-armando-2.jpg?w=160&f=jpg",
     "email": "awong@utec.edu.pe",
-    "research_groups": "Organización/Áreas; Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
+    "research_groups": "",
     "research_areas": "Ecología; Interacciones ecológicas; Biología de Conservación; Dinámica Forestal",
     "citations": 46,
     "h_index": null,
     "publication_count": null,
-    "degree": 3,
-    "weighted_degree": 3,
+    "degree": 0,
+    "weighted_degree": 0,
     "betweenness": 0.0,
-    "clustering": 1.0,
-    "pagerank": 0.012682,
-    "component": 30
+    "clustering": 0,
+    "pagerank": 0.001988,
+    "component": 31
   },
   {
     "id": 89,
@@ -1616,7 +1616,7 @@
     "weighted_degree": 4,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012682,
+    "pagerank": 0.013254,
     "component": 5
   },
   {
@@ -1625,7 +1625,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "https://cris.utec.edu.pe/files-asset/19171861/zegarra_sierra_katia.jpg?w=160&f=jpg",
     "email": "kzegarras@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Física y óptica aplicada; Caracterización óptica de materiales semiconductores; Dinámica de sistemas",
     "citations": 4,
     "h_index": null,
@@ -1634,8 +1634,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 31
+    "pagerank": 0.001988,
+    "component": 32
   },
   {
     "id": 91,
@@ -1643,7 +1643,7 @@
     "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
     "image_url": "https://cris.utec.edu.pe/files-asset/19489162/zorrilla_aranguren_carlos.jpg?w=160&f=jpg",
     "email": "czorrilla@utec.edu.pe",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Comunicación social; Marketing y Comunicaciones; Sociología de las Organizaciones",
     "citations": 0,
     "h_index": null,
@@ -1652,8 +1652,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 32
+    "pagerank": 0.001988,
+    "component": 33
   },
   {
     "id": 92,
@@ -1661,7 +1661,7 @@
     "department": "Departamento de Ciencia de Computación y de Datos",
     "image_url": "",
     "email": "?subject=Luz%20Antuanet%20Adanaque%20Infante&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Luz%20Antuanet%20Adanaque%20Infante%20|%20https://cris.utec.edu.pe/es/persons/luz-antuanet-adanaque-infante/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Arquitecturas reconfigurables; Procesamiento de imágenes; Sistemas embebidos; Nivel VII",
     "citations": null,
     "h_index": null,
@@ -1670,8 +1670,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 33
+    "pagerank": 0.001988,
+    "component": 34
   },
   {
     "id": 93,
@@ -1679,7 +1679,7 @@
     "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
     "image_url": "",
     "email": "?subject=Walter%20Sebastian%20Barrutia%20Alta&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Walter%20Sebastian%20Barrutia%20Alta%20|%20https://cris.utec.edu.pe/es/persons/walter-sebastian-barrutia-alta/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Biomecánica; exoesqueletos; prótesis; Nivel VII",
     "citations": null,
     "h_index": null,
@@ -1688,8 +1688,26 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 34
+    "pagerank": 0.001988,
+    "component": 35
+  },
+  {
+    "id": 94,
+    "name": "Luis Alberto Bedriñana Mera",
+    "department": "Departamento de Ingeniería Civil y Ambiental",
+    "image_url": "",
+    "email": "?subject=Luis%20Alberto%20Bedri%C3%B1ana%20Mera&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Luis%20Alberto%20Bedri%C3%B1ana%20Mera%20|%20https://cris.utec.edu.pe/es/persons/luis-alberto-bedri%C3%B1ana-mera/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
+    "research_groups": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon); Centro de Investigación del Cemento y Concreto - CIC; Centro de Investigación y Conservación del Patrimonio",
+    "research_areas": "Evaluación experimental y numérica de estructuras de hormigón armado sometidas a cargas extremas; ingeniería sísmica basada en el rendimiento y el riesgo sísmico; sistemas estructurales innovadores de bajo daño; aislamiento sísmico y control de respuesta estructural; vigilancia de la salud estructural; materiales de construcción innovadores; \"ciívionoics\" para respuestas ambientales y mecánicas; materiales concretos en 3D; sistemas estructurales con materiales reciclados.; Nivel IV",
+    "citations": null,
+    "h_index": null,
+    "publication_count": 0,
+    "degree": 7,
+    "weighted_degree": 9,
+    "betweenness": 0.023342,
+    "clustering": 0.47619,
+    "pagerank": 0.017588,
+    "component": 0
   },
   {
     "id": 95,
@@ -1697,7 +1715,7 @@
     "department": "Departamento de Ciencia de Computación y de Datos",
     "image_url": "",
     "email": "?subject=Eric%20Javier%20Biagioli&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Eric%20Javier%20Biagioli%20|%20https://cris.utec.edu.pe/es/persons/eric-javier-biagioli/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Ingeniería de software; Geometría computacional; Procesamiento de imágenes",
     "citations": null,
     "h_index": null,
@@ -1706,8 +1724,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 35
+    "pagerank": 0.001988,
+    "component": 36
   },
   {
     "id": 96,
@@ -1715,7 +1733,7 @@
     "department": "Departamento de Sistemas y Seguridad de la Información",
     "image_url": "",
     "email": "?subject=Ana%20Rocio%20Cardenas%20Maita&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Ana%20Rocio%20Cardenas%20Maita%20|%20https://cris.utec.edu.pe/es/persons/ana-rocio-cardenas-maita/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Inteligencia artificial explicable (XAI); Grandes modelos de lenguaje (LLMs); Minería de procesos (minería de flujos)",
     "citations": null,
     "h_index": null,
@@ -1724,8 +1742,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 36
+    "pagerank": 0.001988,
+    "component": 37
   },
   {
     "id": 97,
@@ -1733,7 +1751,7 @@
     "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
     "image_url": "",
     "email": "?subject=Jose%20Javier%20Cerda%20Hernandez&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Jose%20Javier%20Cerda%20Hernandez%20|%20https://cris.utec.edu.pe/es/persons/jose-javier-cerda-hernandez/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas; Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+    "research_groups": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
     "research_areas": "Econometría y Estadística Espacial; Estimación en Áreas Pequeñas; Aprendizaje Estadístico; Análisis de Series Temporales; Teoría de Riesgo; Procesos Estocásticos y Probabilidad Aplicada; Nivel III",
     "citations": null,
     "h_index": null,
@@ -1742,7 +1760,7 @@
     "weighted_degree": 7,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.011212,
+    "pagerank": 0.011717,
     "component": 0
   },
   {
@@ -1751,7 +1769,7 @@
     "department": "Departamento de Ingeniería Civil y Ambiental",
     "image_url": "",
     "email": "?subject=Sheyla%20Chero%20Osorio&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Sheyla%20Chero%20Osorio%20|%20https://cris.utec.edu.pe/es/persons/sheyla-chero-osorio/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas; Centro de Investigación y Tecnología del Agua - CITA",
+    "research_groups": "Centro de Investigación y Tecnología del Agua - CITA",
     "research_areas": "tratamiento de aguas residuales; biotecnología ambiental; bioprocesos sostenibles; remoción y recuperación de nutrientes; procesos de potabilización; Nivel VI",
     "citations": null,
     "h_index": null,
@@ -1760,7 +1778,7 @@
     "weighted_degree": 6,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012189,
+    "pagerank": 0.012738,
     "component": 9
   },
   {
@@ -1769,7 +1787,7 @@
     "department": "Departamento de Bioingeniería e Ingeniería Química",
     "image_url": "",
     "email": "?subject=Carmen%20Elena%20Flores%20Barreda&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Carmen%20Elena%20Flores%20Barreda%20|%20https://cris.utec.edu.pe/es/persons/carmen-elena-flores-barreda/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas; Centro de Investigación en Bioingeniería - BIO",
+    "research_groups": "Centro de Investigación en Bioingeniería - BIO",
     "research_areas": "Uso de fibras naturales para biomateriales y químicos; Descontaminación del agua; Recuperación de residuos industriales; Materiales compuestos para construcción; Nivel III",
     "citations": null,
     "h_index": null,
@@ -1778,7 +1796,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -1787,7 +1805,7 @@
     "department": "Departamento de Bioingeniería e Ingeniería Química",
     "image_url": "",
     "email": "?subject=Heinner%20Hilario%20Guio%20Chunga&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Heinner%20Hilario%20Guio%20Chunga%20|%20https://cris.utec.edu.pe/es/persons/heinner-hilario-guio-chunga/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Genómica de Poblaciones; Medicina de Precisión; Farmacogenomica; Inmunogenomica; Investigador distinguido",
     "citations": null,
     "h_index": null,
@@ -1796,8 +1814,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 37
+    "pagerank": 0.001988,
+    "component": 38
   },
   {
     "id": 101,
@@ -1805,7 +1823,7 @@
     "department": "Departamento de Ingeniería Civil y Ambiental",
     "image_url": "",
     "email": "?subject=Ronald%20R.%20Gutierrez&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Ronald%20R.%20Gutierrez%20|%20https://cris.utec.edu.pe/es/persons/ronald-r-gutierrez/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Procesos fluviales y costeros; restauración de ríos; manejo de riesgos hidrometeorológicos; erosión de suelos; desarrollo de infraestructura crítica; desarrollo de software científico; investigación educativa en ingeniería; Nivel IV",
     "citations": null,
     "h_index": null,
@@ -1814,8 +1832,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 38
+    "pagerank": 0.001988,
+    "component": 39
   },
   {
     "id": 102,
@@ -1823,7 +1841,7 @@
     "department": "Departamento de Ingeniería Mecánica y de la Energía",
     "image_url": "",
     "email": "?subject=Wangdo%20Kim&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Wangdo%20Kim%20|%20https://cris.utec.edu.pe/es/persons/wando-kim/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas; Centro de Investigación en Bioingeniería - BIO",
+    "research_groups": "Centro de Investigación en Bioingeniería - BIO",
     "research_areas": "Biomechanics; Bioengineering; Rehabilitation; Biocemánica ortopédica; Nivel II",
     "citations": null,
     "h_index": null,
@@ -1832,7 +1850,7 @@
     "weighted_degree": 13,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012693,
+    "pagerank": 0.013265,
     "component": 2
   },
   {
@@ -1841,17 +1859,17 @@
     "department": "Departamento de Bioingeniería e Ingeniería Química",
     "image_url": "",
     "email": "?subject=Leandro%20Neodini%20Remedio&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Leandro%20Neodini%20Remedio%20|%20https://cris.utec.edu.pe/es/persons/leandro-neodini-remedio/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas; Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
+    "research_groups": "",
     "research_areas": "Materiales poliméricos activos; Biomateriales y bioplásticos; Compuestos bioactivos de subproductos de la Amazonía; Polímeros naturales comestibles y biodegradables; Caracterización de materiales poliméricos",
     "citations": null,
     "h_index": null,
     "publication_count": 0,
-    "degree": 3,
-    "weighted_degree": 3,
+    "degree": 0,
+    "weighted_degree": 0,
     "betweenness": 0.0,
-    "clustering": 1.0,
-    "pagerank": 0.012682,
-    "component": 30
+    "clustering": 0,
+    "pagerank": 0.001988,
+    "component": 40
   },
   {
     "id": 104,
@@ -1859,7 +1877,7 @@
     "department": "Departamento de Ingeniería Mecánica y de la Energía",
     "image_url": "",
     "email": "?subject=Vanessa%20Orihuela%20Munive&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Vanessa%20Orihuela%20Munive%20|%20https://cris.utec.edu.pe/es/persons/vanessa-orihuela-munive/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Ingeniería de mantenimiento; Confiabilidad de equipos; Evaluación técnico-económica de activos",
     "citations": null,
     "h_index": null,
@@ -1868,8 +1886,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 39
+    "pagerank": 0.001988,
+    "component": 41
   },
   {
     "id": 105,
@@ -1877,17 +1895,17 @@
     "department": "",
     "image_url": "",
     "email": "?subject=Bryam%20Orihuela-Pinto&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Bryam%20Orihuela-Pinto%20|%20https://cris.utec.edu.pe/es/persons/bryam-orihuela-pinto/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas; Instituto de Investigación para la Sostenibilidad de la Amazonía - ASRI",
+    "research_groups": "",
     "research_areas": "Cambio Climático; Riesgos Climáticos; Ciencia de Datos",
     "citations": null,
     "h_index": null,
     "publication_count": 0,
-    "degree": 3,
-    "weighted_degree": 3,
+    "degree": 0,
+    "weighted_degree": 0,
     "betweenness": 0.0,
-    "clustering": 1.0,
-    "pagerank": 0.012682,
-    "component": 30
+    "clustering": 0,
+    "pagerank": 0.001988,
+    "component": 42
   },
   {
     "id": 106,
@@ -1895,7 +1913,7 @@
     "department": "Departamento de Ingeniería Civil y Ambiental",
     "image_url": "",
     "email": "?subject=Lucia%20Rivera%20Char%C3%BAn&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Lucia%20Rivera%20Char%C3%BAn%20|%20https://cris.utec.edu.pe/es/persons/lucia-rivera-char%C3%BAn/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Zooarqueología; Paleoclimas; Sostenibilidad; Biología marina y lacustre; Paleogenética; Nivel VII",
     "citations": null,
     "h_index": null,
@@ -1904,8 +1922,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 40
+    "pagerank": 0.001988,
+    "component": 43
   },
   {
     "id": 107,
@@ -1913,7 +1931,7 @@
     "department": "Departamento de Ciencia de Computación y de Datos",
     "image_url": "",
     "email": "?subject=Luciano%20Arnaldo%20Romero%20Calla&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Luciano%20Arnaldo%20Romero%20Calla%20|%20https://cris.utec.edu.pe/es/persons/luciano-arnaldo-romero-calla/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Computación Gráfica; Renderizado en tiempo real; Procesamiento Geométrico; Nivel VII",
     "citations": null,
     "h_index": null,
@@ -1922,8 +1940,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 41
+    "pagerank": 0.001988,
+    "component": 44
   },
   {
     "id": 108,
@@ -1931,7 +1949,7 @@
     "department": "Departamento de Ingeniería Civil y Ambiental",
     "image_url": "",
     "email": "?subject=Monica%20Cecilia%20Santa%20Mar%C3%ADa%20Fuster&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Monica%20Cecilia%20Santa%20Mar%C3%ADa%20Fuster%20|%20https://cris.utec.edu.pe/es/persons/monica-cecilia-santa-mar%C3%ADa-fuster/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas; Centro de Investigación y Tecnología del Agua - CITA",
+    "research_groups": "Centro de Investigación y Tecnología del Agua - CITA",
     "research_areas": "Barcoding, metabarcoding y ADN ambiental para monitoreo ambiental; Ingeniería de sistemas biológicos para aplicaciones ambientales; Epidemiología basada en aguas residuales; Nivel III",
     "citations": null,
     "h_index": null,
@@ -1940,7 +1958,7 @@
     "weighted_degree": 6,
     "betweenness": 0.0,
     "clustering": 1.0,
-    "pagerank": 0.012189,
+    "pagerank": 0.012738,
     "component": 9
   },
   {
@@ -1949,7 +1967,7 @@
     "department": "Departamento de Ciencias",
     "image_url": "",
     "email": "?subject=Sashwat%20Tanay&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Sashwat%20Tanay%20|%20https://cris.utec.edu.pe/es/persons/sashwat-tanay/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "ondas gravitacionales; agujeros negros binarios; teoría post-newtoniana; sistemas dinámicos hamiltonianos; Nivel V",
     "citations": null,
     "h_index": null,
@@ -1958,8 +1976,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 42
+    "pagerank": 0.001988,
+    "component": 45
   },
   {
     "id": 110,
@@ -1967,7 +1985,7 @@
     "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
     "image_url": "",
     "email": "?subject=Jonathan%20Tapullima&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Jonathan%20Tapullima%20|%20https://cris.utec.edu.pe/es/persons/jonathan-tapullima/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "TJ Mechanical engineering and machinery; Aeroespace; Estructura Aeroespacial; FEM; materiales compuestos avanzados; CFRP; Aviación Sostenible; Nivel VI",
     "citations": null,
     "h_index": null,
@@ -1976,8 +1994,8 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 43
+    "pagerank": 0.001988,
+    "component": 46
   },
   {
     "id": 111,
@@ -1985,7 +2003,7 @@
     "department": "Departamento de Sistemas y Seguridad de la Información",
     "image_url": "",
     "email": "?subject=Candy%20Veronica%20Tenorio%20Gonzales&body=Vea%20este%20investigador%20en%20Universidad%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20-%20UTEC%3A%20Candy%20Veronica%20Tenorio%20Gonzales%20|%20https://cris.utec.edu.pe/es/persons/candy-veronica-tenorio-gonzales/?utm_source=email&utm_medium=email&utm_campaign=sharelink",
-    "research_groups": "Organización/Áreas",
+    "research_groups": "",
     "research_areas": "Interacción humano-computadora; Interacción basada en la mirada; Accesibilidad; Experiencia de Usuario; Nivel VII",
     "citations": null,
     "h_index": null,
@@ -1994,7 +2012,7 @@
     "weighted_degree": 0,
     "betweenness": 0.0,
     "clustering": 0,
-    "pagerank": 0.001902,
-    "component": 44
+    "pagerank": 0.001988,
+    "component": 47
   }
 ]
